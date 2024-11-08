@@ -24,8 +24,7 @@ GITHUB_USERNAME = envv2.GITHUB_USERNAME
 }
 
 
-if(process.env.SESSION_ID){
-SESSION_ID = process.env.SESSION_ID
+if(process.env.SESSION_ID){"𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=biAzHZ5Z#12EMI2TKFNBwP-tOmCLj25ABV1biT5wapcdyptDmZZ0    SESSION_ID = process.env.SESSION_ID
 } else {
 SESSION_ID = envv2.SESSION_ID
 }
